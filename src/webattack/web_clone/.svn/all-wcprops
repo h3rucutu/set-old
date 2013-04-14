@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1585/social_engineering_toolkit/src/webattack/web_clone
+END
+applet.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1523/social_engineering_toolkit/src/webattack/web_clone/applet.txt
+END
+applet.database.old
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/1486/social_engineering_toolkit/src/webattack/web_clone/applet.database.old
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/742/social_engineering_toolkit/src/webattack/web_clone/__init__.py
+END
+applet.database
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/1572/social_engineering_toolkit/src/webattack/web_clone/applet.database
+END
+unc.database
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1103/social_engineering_toolkit/src/webattack/web_clone/unc.database
+END
+cloner.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1585/social_engineering_toolkit/src/webattack/web_clone/cloner.py
+END
+repeater.database
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/1572/social_engineering_toolkit/src/webattack/web_clone/repeater.database
+END
